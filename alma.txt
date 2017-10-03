@@ -2,3 +2,4 @@ banan
 eper
 szollo
 alma
+korte
